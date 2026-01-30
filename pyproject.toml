@@ -1,0 +1,13 @@
+[project]
+name = "pulse-dev"
+version = "0.1.0"
+description = "CLI em Python que analisa projetos e dá diagnóstico da saúde do código"
+authors = [{ name = "Seu Nome" }]
+requires-python = ">=3.10"
+
+dependencies = [
+    "click",
+]
+
+[project.scripts]
+pulse = "pulse.cli:cli"
