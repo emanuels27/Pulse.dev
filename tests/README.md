@@ -50,6 +50,8 @@ Tudo direto pelo terminal, sem dependências pesadas.
 git clone https://github.com/emanuels27/Pulse.dev.git
 cd Pulse.dev
 pip install -e .
+
+
 📊 Uso
 🔍 Análise geral do projeto
 Copiar código
@@ -60,6 +62,8 @@ número de pastas
 número de arquivos
 tamanho total
 extensões mais comuns
+
+
 🐍 Análise focada em Python
 Copiar código
 Bash
@@ -69,6 +73,8 @@ arquivos .py
 linhas de código
 funções
 classes
+
+
 ⚡ Modos especiais
 📄 Saída curta (--short)
 Ideal para README, prints e relatórios rápidos.
@@ -98,12 +104,20 @@ Json
   "functions": 6,
   "classes": 0
 }
+
+
+
+
 🧠 Casos de uso reais
 Avaliar rapidamente o tamanho de um projeto
 Ter uma noção da complexidade de código Python
 Automatizar métricas em pipelines
 Gerar relatórios simples
 Aprender como CLIs em Python funcionam na prática
+
+
+
+
 📂 Estrutura do projeto
 Copiar código
 Text
@@ -119,6 +133,10 @@ pulse.dev/
 ├── pyproject.toml
 ├── README.md
 └── .gitignore
+
+
+
+
 🧭 Roadmap
 [ ] Exportar relatório para arquivo
 [ ] Suporte a mais linguagens
@@ -126,6 +144,11 @@ pulse.dev/
 [ ] Integração com CI (GitHub Actions)
 [ ] Sistema de plugins
 [ ] Comparação entre projetos
+
+
+
+
+
 🤝 Contribuindo
 Contribuições são muito bem-vindas.
 Faça um fork do projeto
@@ -133,8 +156,14 @@ Crie uma branch (feat/nova-feature)
 Commit suas mudanças
 Abra um Pull Request
 Mesmo ideias simples já ajudam bastante.
+
+
+
+
 📝 Licença
 Este projeto está licenciado sob a licença MIT.
+
+
 ⭐ Apoie o projeto
 Se o Pulse.dev te ajudou de alguma forma:
 deixe uma ⭐ no repositório
